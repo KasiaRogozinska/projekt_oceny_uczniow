@@ -1,4 +1,5 @@
 # Przewidywanie ocen uczniów - projekt Machine Learning
+Link do colaba: https://colab.research.google.com/drive/1oRWOGGepEWcXLJ_Z2guTaJqim8n5lnJL?usp=sharing
 
 ## Opis danych
 Zbiór danych pochodzi z UCI Machine Learning Repository i dotyczy wyników uczniów dwóch portugalskich szkół średnich.
