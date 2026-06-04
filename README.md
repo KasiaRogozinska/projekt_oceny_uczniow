@@ -1,4 +1,4 @@
-# Przewidywanie ocen uczniów – projekt Machine Learning
+# Przewidywanie ocen uczniów - projekt Machine Learning
 
 ## Opis danych
 Zbiór danych pochodzi z UCI Machine Learning Repository i dotyczy wyników uczniów dwóch portugalskich szkół średnich.
